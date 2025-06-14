@@ -17,6 +17,5 @@ Bu proje, **FiveM** sunucuları için geliştirilmiş, kullanıcı dostu ve opti
 
 1. Dosyaları `resources` klasörüne ekleyin:
    ```bash
-   cd resources
-   git clone https://github.com/SezerGuvener/qaisenix-hud.git hud
+   server.cfg dosyasının içerisine gidip `ensure qaisenix-hud` yazmanız yeterli.
 

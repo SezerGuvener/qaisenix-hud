@@ -17,5 +17,5 @@ Bu proje, **FiveM** sunucuları için geliştirilmiş, kullanıcı dostu ve opti
 
 1. Dosyaları `resources` klasörüne ekleyin:
    ```bash
-   server.cfg dosyasının içerisine gidip `ensure qaisenix-hud` yazmanız yeterli.
+   server.cfg dosyasının içerisine gidip ensure qaisenix-hud yazmanız yeterli.
 

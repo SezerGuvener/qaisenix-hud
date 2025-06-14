@@ -1,5 +1,5 @@
 # qaisenix-hud
-Simple Standalone FiveM Qaisenix HUD
+Basit Bağımsız FiveM Qaisenix HUD
 
 Bu proje, **FiveM** sunucuları için geliştirilmiş, kullanıcı dostu ve optimize edilmiş bir **HUD (Head-Up Display)** sistemidir. Araç içi hız, vites, kemer durumu, pusula, konum bilgisi ve saat gibi detayları modern bir arayüz ile sunar.
 
@@ -18,6 +18,9 @@ Bu proje, **FiveM** sunucuları için geliştirilmiş, kullanıcı dostu ve opti
 1. Dosyaları `resources` klasörüne ekleyin:
    ```bash
    server.cfg dosyasının içerisine gidip 'ensure qaisenix-hud' yazmanız yeterli.
+
+# qaisenix-hud
+Simple Standalone FiveM Qaisenix HUD
 
 This project is a user-friendly and optimized HUD (Head-Up Display) system developed for FiveM servers. It provides details such as in-car speed, gear, belt status, compass, location information and clock with a modern interface.
 

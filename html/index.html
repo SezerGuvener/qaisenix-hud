@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.7.2/css/all.css">
+  <title>qaisenix-hud</title>
+</head>
+<body>
+  <div id="player-info">
+    <div id="player-top">
+      <span id="player-name-id">
+        <i class="fa-solid fa-user"></i>1 - Bilinmeyen Kişi 
+      </span>|
+      <span id="date">
+        <i class="fa-solid fa-calendar"></i>09.06.2025
+      </span>
+    </div>
+    <div id="player-bottom">
+      <span id="game-time">
+        <i class="fa-regular fa-clock"></i>17:20 
+      </span>|
+      <span id="system-time">
+        <i class="fa-solid fa-clock"></i>17:20
+      </span>
+    </div>
+  </div>
+
+  <div id="compass">
+    <div class="compass-box">
+      <i class="fa-regular fa-compass"></i>
+      <span id="direction">K</span>
+    </div>
+    <div class="compass-box">
+      <i class="fa-regular fa-location-dot"></i>
+      <span id="street">Bilinmeyen Cadde</span>
+    </div>
+    <div class="compass-box">
+      <i class="fa-regular fa-map"></i>
+      <span id="zone">Bilinmeyen Bölge</span>
+    </div>
+  </div>
+
+  <div id="hud">
+    <div id="speed-box">
+      <div id="speed">000</div>
+      <div id="gear-seatbelt">
+        <span id="gear">N</span>
+        <span id="unit">KMH</span>
+        <span id="belt" class="belt-off">
+          <i class="fa-solid fa-user-shield"></i>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="switch-box">
+  <div class="switch-container">
+    <label class="switch">
+      <input type="checkbox" id="compassSwitch" checked />
+      <span class="slider"></span>
+    </label>
+    <span class="switch-label">Pusula</span>
+  </div>
+
+  <div class="switch-container">
+    <label class="switch">
+      <input type="checkbox" id="hudSwitch" checked />
+      <span class="slider"></span>
+    </label>
+    <span class="switch-label">HUD</span>
+  </div>
+
+  <div class="switch-container">
+    <label class="switch">
+      <input type="checkbox" id="cinematicSwitch" />
+      <span class="slider"></span>
+    </label>
+    <span class="switch-label">Sinematik Bar</span>
+  </div>
+</div>
+
+<div class="black-bars top"></div>
+<div class="black-bars bottom"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

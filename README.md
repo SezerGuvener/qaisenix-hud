@@ -19,6 +19,8 @@ Bu proje, **FiveM** sunucuları için geliştirilmiş, kullanıcı dostu ve opti
    ```bash
    server.cfg dosyasının içerisine gidip 'ensure qaisenix-hud' yazmanız yeterli.
 
+This project is a user-friendly and optimized HUD (Head-Up Display) system developed for FiveM servers. It provides details such as in-car speed, gear, belt status, compass, location information and clock with a modern interface.
+
 ## EN 🚀 Features
 
 - ✅ A control panel with a simple interface to turn on/off the HUD (command: `/hud`)

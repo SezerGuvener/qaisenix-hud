@@ -34,5 +34,5 @@ This project is a user-friendly and optimized HUD (Head-Up Display) system devel
 ## 🧩 Installation
 
 1. Add the files to the `resources` folder:
- ``bash
+ ```bash
  just go inside the server.cfg file and type 'ensure qaisenix-hud'.

@@ -3,6 +3,9 @@ Basit Bağımsız FiveM Qaisenix HUD
 
 Bu proje, **FiveM** sunucuları için geliştirilmiş, kullanıcı dostu ve optimize edilmiş bir **HUD (Head-Up Display)** sistemidir. Araç içi hız, vites, kemer durumu, pusula, konum bilgisi ve saat gibi detayları modern bir arayüz ile sunar.
 
+https://i.hizliresim.com/mrozmnd.png
+https://i.hizliresim.com/nxbebso.png
+
 ## TR 🚀 Özellikler
 
 - ✅ HUD ile alakları aç/kapat yapabileceğiniz basit arayüze sahip bir kontrol paneli (komut: `/hud`)

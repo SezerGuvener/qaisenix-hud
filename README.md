@@ -36,5 +36,3 @@ This project is a user-friendly and optimized HUD (Head-Up Display) system devel
 1. Add the files to the `resources` folder:
  ``bash
  just go inside the server.cfg file and type 'ensure qaisenix-hud'.
-
-Translated with DeepL.com (free version)
